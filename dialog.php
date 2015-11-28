@@ -3,5 +3,5 @@
 <button onclick="codiad.modal.unload();return false;">Close</button>
 
 <script>
-    $('#docs').attr('src','http://sass-lang.com/guide');
+    $('#docs').attr('src','https://sass-lang.com/guide');
 </script>
