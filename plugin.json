@@ -1,0 +1,13 @@
+[{
+    "author": "BogdanZuy",
+    "version": "1.0.0",
+    "name": "Docs",
+    "url": "https://github.com/BogdanZuy/Codiad-Docs.git",
+    "rightbar": [
+        {
+            "action": "codiad.Docs.open();",
+            "icon": "icon-book",
+            "title": "Docs"
+        }
+    ]    
+}]
